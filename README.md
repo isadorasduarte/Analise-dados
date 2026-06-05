@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) sobre profissionais que atuam na área de Tecnologia da Informação e Dados. A análise busca identificar características demográficas, níveis de experiência, cargos, salários e outros fatores relacionados ao mercado de trabalho.
+Este projeto tem como objetivo realizar uma análise exploratória de dados sobre profissionais que atuam na área de Tecnologia da Informação e Dados. A análise busca identificar características demográficas, níveis de experiência, cargos, salários e outros fatores relacionados ao mercado de trabalho.
 
 Foram utilizadas técnicas de estatística descritiva, tratamento de dados faltantes, identificação de outliers, visualização de dados e análise de distribuição amostral para obter insights sobre o cenário profissional da área de tecnologia.
 
